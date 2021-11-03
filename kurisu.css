@@ -28,6 +28,12 @@ themevarsp
 /*  imports */     
 @import "https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/SettingsIcons.css";
 
+#app-mount .app-2rEoOp {
+  background-color: #000000;
+  background-size: cover;
+  background-image: url(https://images5.alphacoders.com/542/542751.jpg);
+}
+
 :root{
     --dark-primary: #000000;
     --dark-secondary: #050505;
@@ -37,11 +43,6 @@ themevarsp
     --popout-activeborders: #1f1f1f;
 }
 
-#app-mount .app-2rEoOp {
-  background-color: #000000;
-  background-size: cover;
-  background-image: url(https://images5.alphacoders.com/542/542751.jpg);
-}
 
 /****************************************************************************************
  ██████╗██╗  ██╗ █████╗ ████████╗
