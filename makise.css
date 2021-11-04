@@ -30,11 +30,11 @@ themevarsp
 
 :root{
     --dark-primary: url(https://images5.alphacoders.com/542/542751.jpg);
-    --dark-secondary: url(https://images5.alphacoders.com/542/542751.jpg);
-    --dark-secondary-alt: url(https://images5.alphacoders.com/542/542751.jpg);
-    --dark-bright: url(https://images5.alphacoders.com/542/542751.jpg);
+    --dark-secondary: #050505;
+    --dark-secondary-alt: #080808;
+    --dark-bright: #0b0b0b;
     --roundmoled-background: url(https://images5.alphacoders.com/542/542751.jpg);
-    --popout-activeborders: url(https://images5.alphacoders.com/542/542751.jpg);
+    --popout-activeborders: #1f1f1f;
 }
 
 
