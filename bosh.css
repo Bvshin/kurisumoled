@@ -458,7 +458,7 @@ settingsp
         margin-top:10px;
 }
 .connection-1fbD7X{
-    background:transparent;
+    background:#000000;
 }
 .connectionHeader-2MDqhu{
     background:var(--dark-secondary);
@@ -845,7 +845,7 @@ transform:scale(1.8) !important;
 }
 
 .popout-VcNcHB{
-    border-color:transparent;
+    border-color:#000000;
 }
 
 .option-3KoAJB[aria-selected=true]{
