@@ -1,0 +1,28 @@
+/**
+* @name Kurisumoled
+* @author Boshin
+* @description Roundmoled theme with a Makise Kurisu background.
+* @source https://github.com/Bvshin/kurisumoled
+* @version 1.2
+*/
+
+/* Base theme file, don't disable */
+
+@import url("https://bvshin.github.io/kurisumoled/makise.css");
+:root{
+    --dark-primary: url(https://i.imgur.com/4TTbVwN.png);
+}
+
+/*                                Different dimmened backgrounds                     */
+
+/*
+:root{
+    --dark-primary: url(https://i.imgur.com/U8ukhU7.png);
+}
+*/
+
+/*
+:root{
+    --dark-primary: url(https://i.imgur.com/4TTbVwN.png);
+}
+*/
